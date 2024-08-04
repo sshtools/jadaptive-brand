@@ -64,9 +64,9 @@ for i in *.svg ; do
         rsvg-convert -w $j -h $j "$i" -o "${name}/gif/${name}-${j}.gif"  
         rsvg-convert -w $j -h $j "$i" -o "${name}/webp/${name}-${j}.webp"
 
-        echo -n "[${j}x${j} PNG](banner/${name}/png/${name}-${j}.png) " >> ../README.md 
-        echo -n "[${j}x${j} GIF](banner/${name}/png/${name}-${j}.gif) " >> ../README.md 
-        echo -n "[${j}x${j} WEBP](banner/${name}/png/${name}-${j}.webp) " >> ../README.md 
+        echo -n "[${j}x${j} PNG](graphic/${name}/png/${name}-${j}.png) " >> ../README.md 
+        echo -n "[${j}x${j} GIF](graphic/${name}/png/${name}-${j}.gif) " >> ../README.md 
+        echo -n "[${j}x${j} WEBP](graphic/${name}/png/${name}-${j}.webp) " >> ../README.md 
 
         echo -e "\n" >> ../README.md
     done
