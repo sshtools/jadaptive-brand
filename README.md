@@ -24,15 +24,15 @@ This is a public repository of Jadaptive Brand assets.
 
 [Small PNG](banner/jadaptive-color-dark-alt/png/jadaptive-color-dark-alt-sm.png) [Small GIF](banner/jadaptive-color-dark-alt/png/jadaptive-color-dark-alt-sm.gif) [Small WEBP](banner/jadaptive-color-dark-alt/png/jadaptive-color-dark-alt-sm.webp) 
 
-### jadaptive-color-light-alt 
+### jadaptive-color-light-alt
 
-![jadaptive-color-light-alt ](banner/jadaptive-color-light-alt /png/jadaptive-color-light-alt -sm.png)
+![jadaptive-color-light-alt](banner/jadaptive-color-light-alt/png/jadaptive-color-light-alt-sm.png)
 
-[Large PNG](banner/jadaptive-color-light-alt /png/jadaptive-color-light-alt -lg.png) [Large GIF](banner/jadaptive-color-light-alt /png/jadaptive-color-light-alt -lg.gif) [Large WEBP](banner/jadaptive-color-light-alt /png/jadaptive-color-light-alt -lg.webp) 
+[Large PNG](banner/jadaptive-color-light-alt/png/jadaptive-color-light-alt-lg.png) [Large GIF](banner/jadaptive-color-light-alt/png/jadaptive-color-light-alt-lg.gif) [Large WEBP](banner/jadaptive-color-light-alt/png/jadaptive-color-light-alt-lg.webp) 
 
-[Medium PNG](banner/jadaptive-color-light-alt /png/jadaptive-color-light-alt -md.png) [Medium GIF](banner/jadaptive-color-light-alt /png/jadaptive-color-light-alt -md.gif) [Medium WEBP](banner/jadaptive-color-light-alt /png/jadaptive-color-light-alt -md.webp) 
+[Medium PNG](banner/jadaptive-color-light-alt/png/jadaptive-color-light-alt-md.png) [Medium GIF](banner/jadaptive-color-light-alt/png/jadaptive-color-light-alt-md.gif) [Medium WEBP](banner/jadaptive-color-light-alt/png/jadaptive-color-light-alt-md.webp) 
 
-[Small PNG](banner/jadaptive-color-light-alt /png/jadaptive-color-light-alt -sm.png) [Small GIF](banner/jadaptive-color-light-alt /png/jadaptive-color-light-alt -sm.gif) [Small WEBP](banner/jadaptive-color-light-alt /png/jadaptive-color-light-alt -sm.webp) 
+[Small PNG](banner/jadaptive-color-light-alt/png/jadaptive-color-light-alt-sm.png) [Small GIF](banner/jadaptive-color-light-alt/png/jadaptive-color-light-alt-sm.gif) [Small WEBP](banner/jadaptive-color-light-alt/png/jadaptive-color-light-alt-sm.webp) 
 
 ## Graphics
 
