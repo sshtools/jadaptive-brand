@@ -3,6 +3,15 @@
 echo '# Jadaptive Brand
 
 This is a public repository of Jadaptive Brand assets.
+
+## Colors
+
+Preferred color schemes.
+
+| Splash | Color banner image, centred on black #000. |
+| Banner Background | Color banner image on black #000. |
+| Banner Text or Icons | White #fff. |
+
 ' > README.md
 
 # Banners
@@ -21,6 +30,7 @@ for i in *.svg ; do
 
     echo -e "![${name}](banner/${name}/png/${name}-sm.png)\n" >> ../README.md
 
+    echo "[${t} SVG](banner/${i})" >> ../README.md
     for j in 1173,258,lg,Large 586,129,md,Medium 293,64,sm,Small ; do
         echo "    $j"
 
@@ -57,6 +67,8 @@ for i in *.svg ; do
     mkdir -p "${name}/webp"
 
     echo -e "![${name}](graphic/${name}/png/${name}-128.png)\n" >> ../README.md
+    
+    echo "[${t} SVG](graphic/${i}) " >> ../README.md
 
     for j in 512 256 128 96 64 48 32 24 16 ; do
         echo "    $j"
