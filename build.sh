@@ -32,7 +32,7 @@ for i in *.svg ; do
 
     echo -e "![${name}](banner/${name}/png/${name}-sm.png)\n" >> ../README.md
 
-    echo "[SVG](banner/${i})" >> ../README.md
+    echo -e "[SVG](banner/${i})\n" >> ../README.md
     for j in 1173,258,lg,Large 586,129,md,Medium 293,64,sm,Small ; do
         echo "    $j"
 
@@ -70,7 +70,7 @@ for i in *.svg ; do
 
     echo -e "![${name}](graphic/${name}/png/${name}-128.png)\n" >> ../README.md
     
-    echo "[SVG](graphic/${i}) " >> ../README.md
+    echo -e "[SVG](graphic/${i})\n" >> ../README.md
 
     for j in 512 256 128 96 64 48 32 24 16 ; do
         echo "    $j"

@@ -20,6 +20,7 @@ Preferred color schemes.
 ![jadaptive-color-alt](banner/jadaptive-color-alt/png/jadaptive-color-alt-sm.png)
 
 [SVG](banner/jadaptive-color-alt.svg)
+
 [Large PNG](banner/jadaptive-color-alt/png/jadaptive-color-alt-lg.png) [Large GIF](banner/jadaptive-color-alt/png/jadaptive-color-alt-lg.gif) [Large WEBP](banner/jadaptive-color-alt/png/jadaptive-color-alt-lg.webp) 
 
 [Medium PNG](banner/jadaptive-color-alt/png/jadaptive-color-alt-md.png) [Medium GIF](banner/jadaptive-color-alt/png/jadaptive-color-alt-md.gif) [Medium WEBP](banner/jadaptive-color-alt/png/jadaptive-color-alt-md.webp) 
@@ -31,6 +32,7 @@ Preferred color schemes.
 ![jadaptive-color-dark-alt](banner/jadaptive-color-dark-alt/png/jadaptive-color-dark-alt-sm.png)
 
 [SVG](banner/jadaptive-color-dark-alt.svg)
+
 [Large PNG](banner/jadaptive-color-dark-alt/png/jadaptive-color-dark-alt-lg.png) [Large GIF](banner/jadaptive-color-dark-alt/png/jadaptive-color-dark-alt-lg.gif) [Large WEBP](banner/jadaptive-color-dark-alt/png/jadaptive-color-dark-alt-lg.webp) 
 
 [Medium PNG](banner/jadaptive-color-dark-alt/png/jadaptive-color-dark-alt-md.png) [Medium GIF](banner/jadaptive-color-dark-alt/png/jadaptive-color-dark-alt-md.gif) [Medium WEBP](banner/jadaptive-color-dark-alt/png/jadaptive-color-dark-alt-md.webp) 
@@ -42,6 +44,7 @@ Preferred color schemes.
 ![jadaptive-color-light-alt](banner/jadaptive-color-light-alt/png/jadaptive-color-light-alt-sm.png)
 
 [SVG](banner/jadaptive-color-light-alt.svg)
+
 [Large PNG](banner/jadaptive-color-light-alt/png/jadaptive-color-light-alt-lg.png) [Large GIF](banner/jadaptive-color-light-alt/png/jadaptive-color-light-alt-lg.gif) [Large WEBP](banner/jadaptive-color-light-alt/png/jadaptive-color-light-alt-lg.webp) 
 
 [Medium PNG](banner/jadaptive-color-light-alt/png/jadaptive-color-light-alt-md.png) [Medium GIF](banner/jadaptive-color-light-alt/png/jadaptive-color-light-alt-md.gif) [Medium WEBP](banner/jadaptive-color-light-alt/png/jadaptive-color-light-alt-md.webp) 
@@ -54,7 +57,8 @@ Preferred color schemes.
 
 ![jadaptive-color-graphic-circled-black](graphic/jadaptive-color-graphic-circled-black/png/jadaptive-color-graphic-circled-black-128.png)
 
-[SVG](graphic/jadaptive-color-graphic-circled-black.svg) 
+[SVG](graphic/jadaptive-color-graphic-circled-black.svg)
+
 [512x512 PNG](graphic/jadaptive-color-graphic-circled-black/png/jadaptive-color-graphic-circled-black-512.png) [512x512 GIF](graphic/jadaptive-color-graphic-circled-black/png/jadaptive-color-graphic-circled-black-512.gif) [512x512 WEBP](graphic/jadaptive-color-graphic-circled-black/png/jadaptive-color-graphic-circled-black-512.webp) 
 
 [256x256 PNG](graphic/jadaptive-color-graphic-circled-black/png/jadaptive-color-graphic-circled-black-256.png) [256x256 GIF](graphic/jadaptive-color-graphic-circled-black/png/jadaptive-color-graphic-circled-black-256.gif) [256x256 WEBP](graphic/jadaptive-color-graphic-circled-black/png/jadaptive-color-graphic-circled-black-256.webp) 
@@ -77,7 +81,8 @@ Preferred color schemes.
 
 ![jadaptive-color-graphic-circled-white](graphic/jadaptive-color-graphic-circled-white/png/jadaptive-color-graphic-circled-white-128.png)
 
-[SVG](graphic/jadaptive-color-graphic-circled-white.svg) 
+[SVG](graphic/jadaptive-color-graphic-circled-white.svg)
+
 [512x512 PNG](graphic/jadaptive-color-graphic-circled-white/png/jadaptive-color-graphic-circled-white-512.png) [512x512 GIF](graphic/jadaptive-color-graphic-circled-white/png/jadaptive-color-graphic-circled-white-512.gif) [512x512 WEBP](graphic/jadaptive-color-graphic-circled-white/png/jadaptive-color-graphic-circled-white-512.webp) 
 
 [256x256 PNG](graphic/jadaptive-color-graphic-circled-white/png/jadaptive-color-graphic-circled-white-256.png) [256x256 GIF](graphic/jadaptive-color-graphic-circled-white/png/jadaptive-color-graphic-circled-white-256.gif) [256x256 WEBP](graphic/jadaptive-color-graphic-circled-white/png/jadaptive-color-graphic-circled-white-256.webp) 
@@ -100,7 +105,8 @@ Preferred color schemes.
 
 ![jadaptive-color-graphic](graphic/jadaptive-color-graphic/png/jadaptive-color-graphic-128.png)
 
-[SVG](graphic/jadaptive-color-graphic.svg) 
+[SVG](graphic/jadaptive-color-graphic.svg)
+
 [512x512 PNG](graphic/jadaptive-color-graphic/png/jadaptive-color-graphic-512.png) [512x512 GIF](graphic/jadaptive-color-graphic/png/jadaptive-color-graphic-512.gif) [512x512 WEBP](graphic/jadaptive-color-graphic/png/jadaptive-color-graphic-512.webp) 
 
 [256x256 PNG](graphic/jadaptive-color-graphic/png/jadaptive-color-graphic-256.png) [256x256 GIF](graphic/jadaptive-color-graphic/png/jadaptive-color-graphic-256.gif) [256x256 WEBP](graphic/jadaptive-color-graphic/png/jadaptive-color-graphic-256.webp) 
@@ -123,7 +129,8 @@ Preferred color schemes.
 
 ![jadaptive-mono-graphic-circled-black](graphic/jadaptive-mono-graphic-circled-black/png/jadaptive-mono-graphic-circled-black-128.png)
 
-[SVG](graphic/jadaptive-mono-graphic-circled-black.svg) 
+[SVG](graphic/jadaptive-mono-graphic-circled-black.svg)
+
 [512x512 PNG](graphic/jadaptive-mono-graphic-circled-black/png/jadaptive-mono-graphic-circled-black-512.png) [512x512 GIF](graphic/jadaptive-mono-graphic-circled-black/png/jadaptive-mono-graphic-circled-black-512.gif) [512x512 WEBP](graphic/jadaptive-mono-graphic-circled-black/png/jadaptive-mono-graphic-circled-black-512.webp) 
 
 [256x256 PNG](graphic/jadaptive-mono-graphic-circled-black/png/jadaptive-mono-graphic-circled-black-256.png) [256x256 GIF](graphic/jadaptive-mono-graphic-circled-black/png/jadaptive-mono-graphic-circled-black-256.gif) [256x256 WEBP](graphic/jadaptive-mono-graphic-circled-black/png/jadaptive-mono-graphic-circled-black-256.webp) 
@@ -146,7 +153,8 @@ Preferred color schemes.
 
 ![jadaptive-mono-graphic-circled-white](graphic/jadaptive-mono-graphic-circled-white/png/jadaptive-mono-graphic-circled-white-128.png)
 
-[SVG](graphic/jadaptive-mono-graphic-circled-white.svg) 
+[SVG](graphic/jadaptive-mono-graphic-circled-white.svg)
+
 [512x512 PNG](graphic/jadaptive-mono-graphic-circled-white/png/jadaptive-mono-graphic-circled-white-512.png) [512x512 GIF](graphic/jadaptive-mono-graphic-circled-white/png/jadaptive-mono-graphic-circled-white-512.gif) [512x512 WEBP](graphic/jadaptive-mono-graphic-circled-white/png/jadaptive-mono-graphic-circled-white-512.webp) 
 
 [256x256 PNG](graphic/jadaptive-mono-graphic-circled-white/png/jadaptive-mono-graphic-circled-white-256.png) [256x256 GIF](graphic/jadaptive-mono-graphic-circled-white/png/jadaptive-mono-graphic-circled-white-256.gif) [256x256 WEBP](graphic/jadaptive-mono-graphic-circled-white/png/jadaptive-mono-graphic-circled-white-256.webp) 
